@@ -1,16 +1,68 @@
-### Hi there 👋
+# Michael Stevens Diaz Beltran
 
-<!--
-**Mditran/Mditran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Systems Engineer | Front-End Developer
 
-Here are some ideas to get you started:
+🌎 Popayán, Colombia | 📧 micheldiaz@unicauca.edu.co | 🔗 [LinkedIn](https://www.linkedin.com/in/mditran)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👋 About Me
+
+I'm a Systems Engineering student passionate about solving problems through technology. With a strong foundation in web development, particularly in front-end technologies, I'm constantly seeking opportunities to apply and expand my software development skills.
+
+---
+
+### 🚀 Skills
+
+- **Front-End**: HTML, CSS, JavaScript, React
+- **Back-End**: Java, C#, Python, .NET, ASP.NET, Django
+- **Other**: Git, Agile Methodologies, Data Structures and Algorithms
+
+---
+
+### 🎓 Education
+
+- **Systems Engineering** - Universidad del Cauca (2019 - Present)
+- **Technology in Information Systems Analysis and Development** - SENA (2015 - 2017)
+
+---
+
+### 💼 Projects
+
+1. **Carbon Footprint Compensation Platform** (2024)
+   - Developed key components using Atomic Design and Material UI
+   - Technologies: React, Material UI, Recoil, Vite
+
+2. **Thesis Tracking Platform** (2023)
+   - Led front-end development with React
+   - Technologies: React, JavaScript, Tailwind CSS, Git
+
+3. **Teacher Self-Assessment System** (2023)
+   - Developed modules for managing academic periods, teachers, and tasks
+   - Technologies: JavaScript, Node, React, HTML, CSS, Tailwind
+
+---
+
+### 🏅 Certifications
+
+- Front-End Development with React specialization (Alura, 2023)
+- Web Application Development (Universidad de Antioquia, 2021)
+- SQL with MySQL (Alura, 2023)
+
+---
+
+### 🌐 Languages
+
+- Spanish (Native)
+- English (Professional Working Proficiency)
+- French (Basic)
+
+---
+
+### 📫 How to reach me
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mditran) or send me an email at micheldiaz@unicauca.edu.co.
+
+---
+
+⭐️ From [mditran](https://github.com/mditran)
