@@ -32,14 +32,19 @@ I'm a Systems Engineering student passionate about solving problems through tech
 1. **Carbon Footprint Compensation Platform** (2024)
    - Developed key components using Atomic Design and Material UI
    - Technologies: React, Material UI, Recoil, Vite
+   - [Project Details](https://github.com/isabellaSolarte/Proyecto2-CruzRoja)
 
 2. **Thesis Tracking Platform** (2023)
    - Led front-end development with React
    - Technologies: React, JavaScript, Tailwind CSS, Git
+   - [Project Details](https://github.com/Stiven1707/Proyecto-I)
 
 3. **Teacher Self-Assessment System** (2023)
    - Developed modules for managing academic periods, teachers, and tasks
    - Technologies: JavaScript, Node, React, HTML, CSS, Tailwind
+   - [Project Details](https://github.com/Mditran/AutoEvaluacion)
+
+For more detailed information about my contributions to these collaborative projects, please visit the individual project detail pages linked above.
 
 ---
 
